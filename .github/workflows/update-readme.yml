@@ -1,1 +1,3 @@
-
+- name: Fetch external content and update README
+  run: |
+    python fetch_and_update.py
